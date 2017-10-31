@@ -1,4 +1,5 @@
 alfredworkflow.addatag
+Install (https://github.com/jdberry/tag/ "Tag")
 
 Add a tag to files selected in finder.
 - select files
