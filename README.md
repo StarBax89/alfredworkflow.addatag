@@ -1,5 +1,3 @@
-alfredworkflow.addatag
-
 1. Install [Tag](https://github.com/jdberry/tag/ "Tag")
 2. Install workflow to  alfred
 3. Tag ;)
