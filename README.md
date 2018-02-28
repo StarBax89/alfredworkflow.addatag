@@ -4,7 +4,7 @@ alfredworkflow.addatag
 2. Install workflow to  alfred
 3. Tag ;)
 
-Add a tag to files selected in finder.
+To add a tag to selected files in finder:
 - select files
 - type "ftag" to alfred
 - type the argument (argument is the name of the tag)
